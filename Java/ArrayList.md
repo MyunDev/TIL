@@ -70,7 +70,7 @@
 
    * ArrayList.size() 메소드를 사용
 
-     
+   * 
 
 6. ArrayList 값 출력
 
